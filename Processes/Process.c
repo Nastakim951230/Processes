@@ -8,5 +8,6 @@ int main(int args, char* argv[])
 		printf("%s\n", argv[i]);
 	}
 	system("pause");
+
 	return 0;
 }
